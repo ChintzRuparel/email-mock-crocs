@@ -6,3 +6,6 @@ AMP for email allows senders to include AMP components inside rich engaging emai
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Crocs_wordmark.svg/2560px-Crocs_wordmark.svg.png">
+
+
+<a href=“https://file-directory-for-ampmails.netlify.app”> Directory for Images </a>
